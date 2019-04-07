@@ -1,0 +1,15 @@
+{
+  "name": "demo_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mongoose": "^5.4.22"
+  }
+}
